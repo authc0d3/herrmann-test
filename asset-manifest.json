@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/herrmann/static/css/main.23ff47e7.chunk.css",
-    "main.js": "/herrmann/static/js/main.9cf40af4.chunk.js",
-    "main.js.map": "/herrmann/static/js/main.9cf40af4.chunk.js.map",
-    "runtime-main.js": "/herrmann/static/js/runtime-main.40f68da5.js",
-    "runtime-main.js.map": "/herrmann/static/js/runtime-main.40f68da5.js.map",
-    "static/js/2.714a7b39.chunk.js": "/herrmann/static/js/2.714a7b39.chunk.js",
-    "static/js/2.714a7b39.chunk.js.map": "/herrmann/static/js/2.714a7b39.chunk.js.map",
-    "static/js/3.e5ff0e9c.chunk.js": "/herrmann/static/js/3.e5ff0e9c.chunk.js",
-    "static/js/3.e5ff0e9c.chunk.js.map": "/herrmann/static/js/3.e5ff0e9c.chunk.js.map",
-    "index.html": "/herrmann/index.html",
-    "static/css/main.23ff47e7.chunk.css.map": "/herrmann/static/css/main.23ff47e7.chunk.css.map",
-    "static/js/2.714a7b39.chunk.js.LICENSE.txt": "/herrmann/static/js/2.714a7b39.chunk.js.LICENSE.txt",
-    "static/media/brain.ff45f673.svg": "/herrmann/static/media/brain.ff45f673.svg",
-    "static/media/grafico.8534e04f.jpg": "/herrmann/static/media/grafico.8534e04f.jpg"
+    "main.css": "/herrmann-test/static/css/main.23ff47e7.chunk.css",
+    "main.js": "/herrmann-test/static/js/main.9cf40af4.chunk.js",
+    "main.js.map": "/herrmann-test/static/js/main.9cf40af4.chunk.js.map",
+    "runtime-main.js": "/herrmann-test/static/js/runtime-main.efe889e0.js",
+    "runtime-main.js.map": "/herrmann-test/static/js/runtime-main.efe889e0.js.map",
+    "static/js/2.714a7b39.chunk.js": "/herrmann-test/static/js/2.714a7b39.chunk.js",
+    "static/js/2.714a7b39.chunk.js.map": "/herrmann-test/static/js/2.714a7b39.chunk.js.map",
+    "static/js/3.e5ff0e9c.chunk.js": "/herrmann-test/static/js/3.e5ff0e9c.chunk.js",
+    "static/js/3.e5ff0e9c.chunk.js.map": "/herrmann-test/static/js/3.e5ff0e9c.chunk.js.map",
+    "index.html": "/herrmann-test/index.html",
+    "static/css/main.23ff47e7.chunk.css.map": "/herrmann-test/static/css/main.23ff47e7.chunk.css.map",
+    "static/js/2.714a7b39.chunk.js.LICENSE.txt": "/herrmann-test/static/js/2.714a7b39.chunk.js.LICENSE.txt",
+    "static/media/brain.ff45f673.svg": "/herrmann-test/static/media/brain.ff45f673.svg",
+    "static/media/grafico.8534e04f.jpg": "/herrmann-test/static/media/grafico.8534e04f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f68da5.js",
+    "static/js/runtime-main.efe889e0.js",
     "static/js/2.714a7b39.chunk.js",
     "static/css/main.23ff47e7.chunk.css",
     "static/js/main.9cf40af4.chunk.js"
